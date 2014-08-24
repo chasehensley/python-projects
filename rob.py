@@ -1,15 +1,12 @@
+
 import time
 
+print(" this is a 5 second timer")
 
-answer_=input("do you like rob?")
+time.sleep(1)
+time.sleep(1)
+time.sleep(1)
+time.sleep(1)
+time.sleep(1)
 
-
-if answer_=='yes':
-   print("i do to")
-   time.sleep(1)
-   print("we are twins!!!!!!!!!!!!!!!!!!!!")
-
-
-
-else:
-   print("well i do")
+print(" five seconds is up")
