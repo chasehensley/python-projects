@@ -25,3 +25,15 @@ time.sleep(3)
 print(chase_list[0])
 
 
+time.sleep(3)
+
+
+print("Least favorite cat name")
+
+
+time.sleep(3)
+
+
+print(chase_list[1])
+
+
