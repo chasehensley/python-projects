@@ -24,7 +24,7 @@ days_in_year = 365.242
 days_apart = years_apart * days_in_year
 
 
-print("{} and {} + str (days_apart) + " days_apart.")
+print("you are and  + str (days_apart) + " days_apart.")
 
 
 
