@@ -11,4 +11,5 @@ print(age)
 
 
 school=input("what shcool do you go to?")
-print("you go to") (school)
+print("you go to")
+print(school)
